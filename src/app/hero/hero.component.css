@@ -1,0 +1,10 @@
+.hero {
+    background: url("https://cdn.pixabay.com/photo/2016/11/17/23/29/programming-1832991_1280.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 700px;
+    text-align: center;
+    padding-top: 20%;
+    color: bisque;
+}
